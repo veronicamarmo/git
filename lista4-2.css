@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap%27");
+*{
+font-family: 'Roboto', sans-serif;
+
+}
+h2{text-align: center; font-size: 30px; color: #2d8067;}
+h1{font-size: 48px;}
+div{text-align: center;}
+.contatos{text-align: end;}

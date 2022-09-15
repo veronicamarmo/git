@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rosarivo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Content&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plaster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kranky&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
+
+
+.img{
+    text-align: center;
+}
+
+h2{
+    text-align: end;
+    font-size: 36 px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fonte1{
+
+    text-align: justify;
+    margin: 65px;
+    font-family: 'Noto Serif', serif;
+}
+.fonte2{
+
+    text-align: end;
+    margin: 65px;
+    font-family: 'Noto Serif', serif;
+}
+.fonte3{
+    text-align: justify;
+    margin: 65px;
+    font-family: 'Noto Serif', serif;
+}
+
+.card1{
+    margin: 65px;
+    text-align: justify;
+    font-family: 'Rokkitt', serif;
+    color: #eb2020;
+}
+.card2{
+    margin: 65px;
+    text-align: justify;
+    font-family: 'Courier Prime', monospace;
+    color: #730ac6;
+}
+.card3{
+    margin: 65px;
+    text-align: justify;
+    font-family: 'Rosarivo', serif;
+    color: #0e8d58;
+
+}
+.card4{
+    margin: 65px;
+    text-align: end;
+    font-family: 'Saira', sans-serif;
+    color: #659a77;
+}
+.card5{
+    margin: 65px;
+    text-align: end;
+    font-family: 'Content', cursive;
+    color: #fc5812;
+}
+.card6{
+    margin: 65px;
+    text-align: end;
+    font-family: 'Padauk', sans-serif;
+    color: #154ee0;
+}
+.card7{
+    margin: 65px;
+    text-align: justify;
+    font-family: 'Rouge Script', cursive;
+    color: #000;
+}
+.card8{
+    margin: 65px;
+    text-align: justify;
+    font-family: 'Plaster', cursive;
+    color: #840d87;
+}
+.card9{
+    margin: 65px;
+    text-align: justify;
+    font-family: 'Kranky', cursive;
+    color: #EF6C0C;
+}

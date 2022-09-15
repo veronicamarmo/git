@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Seaweed+Script&display=swap%27");
+
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 72px;
+    color: #A93983;
+    font-family: 'Seaweed Script', cursive ;
+}
+
+.contato {
+    text-align: end;
+}
+
+.paragrafo1 {
+    font-size: 24px;
+    text-align: end;
+}
+
+.paragrafo2 {
+    text-align: end;
+    font-size: 18px;
+}
+.direitos{
+    text-align: center;
+}

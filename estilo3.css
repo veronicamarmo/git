@@ -1,0 +1,22 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* 10px - tamanho padrão*/
+    font-size: 1.0rem;
+}
+
+.text1{
+    font-weight: 100;
+    text-decoration: line-through;
+    text-transform: lowercase;
+    text-align: center;
+}
+.text2{
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: end;
+}
+.text3{
+   text-decoration: none;
+   text-transform: capitalize;
+   text-align: justify;
+}

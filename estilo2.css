@@ -1,0 +1,23 @@
+/* Seletores de tags nativas */
+body {
+    background-color: black;
+}
+
+h4 {
+    color: blue;
+}
+
+img{
+    width: 100px;
+}
+
+/* Seletores por IDs */
+#produtos_em_oferta{
+    background-color: brown;
+}
+
+/* seletor por classes */
+
+.card{
+    background-color: darkgoldenrod;
+}

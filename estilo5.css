@@ -1,0 +1,33 @@
+:root{
+    --primario: blue;
+    --secundario: darkblue;
+    --terciario: coral;
+    --margin_padrao: 50px;
+}
+
+.card1,
+.card2,
+.card3,
+.card4{
+    width: 150px;
+    height: 150px;
+    margin: var(--margin_padrao);
+}
+
+.card1{
+    background-color: var(--primario);
+}
+.card2{
+    background-color: var(--secundario);
+}
+.card3{
+    background-color: var(--terciario);
+}
+.card4{
+    background-color: var(--secundario);
+}
+
+h1{
+    background-color: blueviolet;
+    color: beige;
+}

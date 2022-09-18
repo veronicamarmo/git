@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+Main {
+    margin: 1140px;
+}
+
+.flex {
+    display: flex;
+    margin: 100px;
+    width: 538px;
+    height: 755px;
+}
+
+.header {
+    background-color: #F0F3F3;
+    height: 30px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    padding: 7px;
+    margin: 20px;
+    font-size: 1.0rem;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+input {
+    width: 420px;
+    height: 38px;
+}
+
+main {
+    width: 1140px;
+    margin: auto;
+}
+
+select {
+    width: 420px;
+    height: 38px;
+}
+
+.botao1 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #8458FF;
+    color: white;
+    margin: auto;
+    width: 109px;
+    height: 39px;
+    border-color: white;
+}
+
+.botao2 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #8458FF;
+    color: white;
+    margin: auto;
+    width: 80px;
+    height: 39px;
+    border-color: white;
+
+}
+
+fieldset {
+    border-radius: 2%;
+    margin: 10px;
+}
+
+.fieldset1{
+    position: relative;
+    right: 20px;
+}
+
+.fieldset2{
+    position: relative;
+    right: -20px;
+}
+
+p {
+    justify-content: flex-start;
+}
+
+footer {
+    background-color: #F6511D;
+    height: 250px;
+}
+
+.flex2 {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    margin: auto;
+    color: white;
+    justify-content: center;
+    padding: 50px;
+}
+
+.codetur {
+    font-size: 1.5rem;
+    position: relative;
+    right: 30px;
+}
+
+#linha-vertical {
+    display: flex;
+    height: 175px;
+    border-right: 2px solid white;
+}
+
+.contatos{
+    position: relative;
+    justify-content: center;
+    right: -20px;
+}

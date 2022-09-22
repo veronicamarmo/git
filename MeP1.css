@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+main {
+    width: 1200px;
+    margin: auto;
+}
+
+* {
+    margin: 0%;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: royalblue;
+    position: relative;
+    left: 250px;
+    top: 15px;
+}
+
+.flex {
+    display: flex;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+.dropdown1,
+.dropdown2,
+.dropdown3,
+.dropdown4 {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 400px;
+    top: 25px;
+}
+
